@@ -1,0 +1,8 @@
+torch
+realesrgan
+gfpgan
+gradio==4.29.0
+numpy
+opencv-python-headless==4.7.0.72
+Pillow
+requests
